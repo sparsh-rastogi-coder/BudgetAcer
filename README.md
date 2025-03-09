@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [BudgetAcer](https://main.d1sj7cd70hlter.amplifyapp.com/)  
+🔗 **Live Website:** [BudgetAcer](https://main.d1sj7cd70hlter.amplifyapp.com/) (not active right now) 
 🔗 **Vercel Link:** [Expense Tracker](https://expense-tracker-app-three-beryl.vercel.app/)
 
 ---
@@ -68,12 +68,12 @@ BudgetAcer is a web-based **Expense Management System** built with the **MERN St
 
 ### Clone the Project
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  git clone https://github.com/sparsh-rastogi-coder/BugetAcer.git
 ```
 
 ### Install Dependencies
 ```bash
-  cd Expense-Tracker-App/frontend
+  cd BugetAcer/frontend
   npm install
 ```
 ```bash
@@ -104,30 +104,5 @@ PORT=your_server_port
 ![Expense Categories](https://i.postimg.cc/Dy6L3wgc/Expense-Management-System-Brave-19-04-2023-11-15-46.png)
 ![Reports](https://i.postimg.cc/13YF47bn/Expense-Management-System-Brave-19-04-2023-11-15-54.png)
 ![Transaction List](https://i.postimg.cc/rwpWV2Z2/Expense-Management-System-Brave-19-04-2023-11-16-01.png)
-
 ---
-
-## 🏆 Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)  
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
----
-
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Priyanshu9898/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshumalaviya/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Priyanshu2281)  
-[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@priyanshumalaviya9210)
-
----
-
-## 🎥 Demo
-[Click here to watch the demo](#) *(Add demo link here)*
-
----
-
-## 📜 License
-[MIT](https://choosealicense.com/licenses/mit/)
 
